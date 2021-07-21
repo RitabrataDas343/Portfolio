@@ -103,6 +103,10 @@ header table {
     transition: 0.4s ease-in-out;
 }
 
+.mobile-view{
+    display:none;
+}
+
 #magnify h1:hover {
     color: rgb(18, 177, 156);
     cursor: pointer;
