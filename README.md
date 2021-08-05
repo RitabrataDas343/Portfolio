@@ -1,2 +1,2 @@
 # Portfolio
-This is my portfolio website. Have a look :)
+This is my portfolio website. Have a look :) Mobile View Coming soon.
